@@ -18,8 +18,8 @@ Automatically finds new and old episodes for you and it works with your current 
   <Project>http://sickbeard.com/</Project>
   <Overview>The ultimate PVR application that searches for and manages your TV shows
 Automatically finds new and old episodes for you and it works with your current download client!</Overview>
-  <Registry>https://hub.docker.com/r/bakes82/docker-sickbeard-mp4/</Registry>
-  <Repository>bakes82/docker-sickbeard-mp4</Repository>
+  <Registry>https://hub.docker.com/r/paoloconi/sickbeard_mp4_automator//</Registry>
+  <Repository>paoloconi/sickbeard_mp4_automator</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
